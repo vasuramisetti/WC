@@ -16,6 +16,12 @@ checkout scm
 }
 
 }
+  
+  
+  stage('build') {
+    // some block
+}
+  
 
 }
 
