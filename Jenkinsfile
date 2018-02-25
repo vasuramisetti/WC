@@ -1,6 +1,6 @@
 pipeline{
 
-agent any {
+agent any 
 
 stages{
 
@@ -21,4 +21,4 @@ checkout scm
 
 }
 
-}
+
